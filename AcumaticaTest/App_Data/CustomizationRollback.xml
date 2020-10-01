@@ -1,5 +1,0 @@
-<Rollback>
-  <File path="CstPublished\pages_so\so301000.aspx" method="Delete" />
-  <File path="CstPublished\pages_so\so301000.aspx.cs" method="Delete" />
-  <File path="Bin\SOCustomization.dll" method="Delete" />
-</Rollback>

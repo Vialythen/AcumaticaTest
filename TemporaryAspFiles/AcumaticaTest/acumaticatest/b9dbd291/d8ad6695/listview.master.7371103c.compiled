@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/MasterPages/ListView.master" hash="fffffff44bb1fa49" filehash="b3c788c3cfc73e44" flags="110000" assembly="App_Web_yyvuh1b2" type="ASP.masterpages_listview_master">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
-        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
-        <filedep name="/AcumaticaTest/MasterPages/ListView.master" />
-        <filedep name="/AcumaticaTest/MasterPages/ListView.master.cs" />
-    </filedeps>
-</preserve>

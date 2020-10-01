@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="8" virtualPath="/WebSiteValidationDomain/global.asax" hash="ffffffffa46abde8" filehash="45298c6d25a5" flags="150000" assembly="App_global.asax.cqyfdv0q" type="ASP.global_asax">
-    <filedeps>
-        <filedep name="/WebSiteValidationDomain/global.asax" />
-    </filedeps>
-</preserve>

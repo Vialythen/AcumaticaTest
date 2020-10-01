@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/MasterPages/ClearWorkspace.master" hash="fffffff44bb1fa49" filehash="cedd8c54b64eb9e1" flags="110000" assembly="App_Web_yyvuh1b2" type="ASP.masterpages_clearworkspace_master">
-    <filedeps>
-        <filedep name="/AcumaticaTest/MasterPages/ClearWorkspace.master" />
-        <filedep name="/AcumaticaTest/MasterPages/ClearWorkspace.master.cs" />
-    </filedeps>
-</preserve>

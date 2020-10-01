@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/AcumaticaTest/Api/ServiceGate.asmx" hash="ffffffffa46abde8" filehash="213d1c45b3e4" flags="130000" assembly="PX.Data" type="PX.Api.ServiceGate">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Api/ServiceGate.asmx" />
-    </filedeps>
-</preserve>

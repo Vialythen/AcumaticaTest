@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebSiteValidationDomain/Customization/CustomizationDialogs.ascx" hash="fffffff44bb1fa49" filehash="180d5d8c5c196931" flags="110000" assembly="App_Web_tili5caz" type="ASP.customization_customizationdialogs_ascx">
-    <filedeps>
-        <filedep name="/WebSiteValidationDomain/Customization/CustomizationDialogs.ascx" />
-        <filedep name="/WebSiteValidationDomain/Customization/CustomizationDialogs.ascx.cs" />
-    </filedeps>
-</preserve>

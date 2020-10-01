@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebSiteValidationDomain/Controls/ProcessingDialogs.ascx" hash="fffffff44bb1fa49" filehash="a492935ee4de51a5" flags="110000" assembly="App_Web_04mwj55m" type="ASP.controls_processingdialogs_ascx">
-    <filedeps>
-        <filedep name="/WebSiteValidationDomain/Controls/ProcessingDialogs.ascx" />
-        <filedep name="/WebSiteValidationDomain/Controls/ProcessingDialogs.ascx.cs" />
-    </filedeps>
-</preserve>

@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/Menu.aspx" hash="fffffff44bb1fa49" filehash="92803d1c1827d059" flags="110000" assembly="App_Web_s3eyd0q1" type="ASP.frames_menu_aspx">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Frames/Menu.aspx" />
-        <filedep name="/AcumaticaTest/Frames/Menu.aspx.cs" />
-    </filedeps>
-</preserve>

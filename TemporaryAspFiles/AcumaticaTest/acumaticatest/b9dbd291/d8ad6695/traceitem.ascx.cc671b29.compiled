@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Controls/TraceItem.ascx" hash="fffffff44bb1fa49" filehash="a84613d6e4158353" flags="110000" assembly="App_Web_xrijdo5r" type="ASP.controls_traceitem_ascx">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Controls/TraceItem.ascx" />
-        <filedep name="/AcumaticaTest/Controls/TraceItem.ascx.cs" />
-    </filedeps>
-</preserve>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebSiteValidationDomain/MasterPages/TabDetail.master" hash="fffffff44bb1fa49" filehash="37992b6daeb9d631" flags="110000" assembly="App_Web_n0y5b3yn" type="ASP.masterpages_tabdetail_master">
-    <filedeps>
-        <filedep name="/WebSiteValidationDomain/Controls/PageTitle.ascx" />
-        <filedep name="/WebSiteValidationDomain/Controls/PageTitle.ascx.cs" />
-        <filedep name="/WebSiteValidationDomain/MasterPages/TabDetail.master" />
-        <filedep name="/WebSiteValidationDomain/MasterPages/TabDetail.master.cs" />
-    </filedeps>
-</preserve>

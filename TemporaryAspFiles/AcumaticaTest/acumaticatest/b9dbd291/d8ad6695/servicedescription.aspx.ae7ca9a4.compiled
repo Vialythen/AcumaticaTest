@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Api/ServiceDescription.aspx" hash="fffffff44bb1fa49" filehash="1456c87fc519f34" flags="110000" assembly="App_Web_ng4nhd1l" type="ASP.api_servicedescription_aspx">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Api/ServiceDescription.aspx" />
-        <filedep name="/AcumaticaTest/Api/ServiceDescription.aspx.cs" />
-    </filedeps>
-</preserve>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/Login.aspx" hash="fffffff44bb1fa49" filehash="1ac0b031708ad6d9" flags="110000" assembly="App_Web_s3eyd0q1" type="ASP.frames_login_aspx">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Frames/Login.aspx" />
-        <filedep name="/AcumaticaTest/Frames/Login.aspx.cs" />
-        <filedep name="/AcumaticaTest/MasterPages/Login.master" />
-        <filedep name="/AcumaticaTest/MasterPages/Login.master.cs" />
-    </filedeps>
-</preserve>
