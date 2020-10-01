@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/Trace.aspx" hash="fffffff44bb1fa49" filehash="fc95315c200f2e1f" flags="110000" assembly="App_Web_2spcdzpe" type="ASP.frames_trace_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/Trace.aspx" hash="fffffff44bb1fa49" filehash="fc95315c200f2e1f" flags="110000" assembly="App_Web_s3eyd0q1" type="ASP.frames_trace_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/Controls/TraceItem.ascx" />
         <filedep name="/AcumaticaTest/Controls/TraceItem.ascx.cs" />

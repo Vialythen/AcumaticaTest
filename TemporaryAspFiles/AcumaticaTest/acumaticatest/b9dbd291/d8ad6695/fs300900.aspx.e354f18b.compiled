@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Pages/FS/GoogleMaps/Routes/FS300900.aspx" hash="fffffff44bb1fa49" filehash="5b2819522938ac7b" flags="110000" assembly="App_Web_qbfqgbn1" type="ASP.pages_fs_googlemaps_routes_fs300900_aspx">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
-        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
-        <filedep name="/AcumaticaTest/Pages/FS/GoogleMaps/Routes/FS300900.aspx" />
-        <filedep name="/AcumaticaTest/Pages/FS/GoogleMaps/Routes/FS300900.aspx.cs" />
-    </filedeps>
-</preserve>

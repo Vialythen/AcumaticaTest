@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Pages/HS/LoggedIn.aspx" hash="fffffff44bb1fa49" filehash="1010d1fe0aa965bf" flags="110000" assembly="App_Web_aqxzs1jn" type="ASP.pages_hs_loggedin_aspx">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Pages/HS/LoggedIn.aspx" />
-        <filedep name="/AcumaticaTest/Pages/HS/LoggedIn.aspx.cs" />
-    </filedeps>
-</preserve>

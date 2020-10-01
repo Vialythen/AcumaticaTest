@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Customization/CustomizationDialogs.ascx" hash="fffffff44bb1fa49" filehash="48de79d9b3d526d2" flags="110000" assembly="App_Web_55tnghy0" type="ASP.customization_customizationdialogs_ascx">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Customization/CustomizationDialogs.ascx" />
-        <filedep name="/AcumaticaTest/Customization/CustomizationDialogs.ascx.cs" />
-    </filedeps>
-</preserve>

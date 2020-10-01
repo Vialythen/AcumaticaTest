@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Controls/Publish.aspx" hash="fffffff44bb1fa49" filehash="1505" flags="100000" assembly="App_Web_publish.aspx.cc671b29.tvzfznzv" type="ASP.controls_publish_aspx">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Controls/Publish.aspx" />
-    </filedeps>
-</preserve>

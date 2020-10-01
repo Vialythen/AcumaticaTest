@@ -1,21 +1,7 @@
-ShutdownReason: ConfigurationChange;
-Change in App_Offline.htm
+ShutdownReason: BinDirChangeOrDirectoryRename;
+Change Notification for critical directories.
+bin dir change or directory rename
 HostingEnvironment initiated shutdown
-Change in App_Offline.htm
-Change in App_Offline.htm
-Change Notification for critical directories.
-bin dir change or directory rename
-Change Notification for critical directories.
-bin dir change or directory rename
-Change Notification for critical directories.
-bin dir change or directory rename
-Change in App_Offline.htm
-Change in App_Offline.htm
-Change in App_Offline.htm
-Change Notification for critical directories.
-bin dir change or directory rename
-Change Notification for critical directories.
-bin dir change or directory rename
 Change Notification for critical directories.
 bin dir change or directory rename
 HostingEnvironment caused shutdown;
@@ -24,7 +10,8 @@ HostingEnvironment caused shutdown;
    at System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
    at System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
    at System.Web.HttpRuntime.ShutdownAppDomain(String stackTrace)
-   at System.Web.HttpRuntime.OnAppOfflineFileChange(Object sender, FileChangeEvent e)
+   at System.Web.HttpRuntime.OnCriticalDirectoryChange(Object sender, FileChangeEvent e)
+   at System.Web.FileChangesMonitor.OnCriticaldirChange(Object sender, FileChangeEvent e)
    at System.Web.DirectoryMonitor.FireNotifications()
    at System.Web.Util.WorkItem.CallCallbackWithAssert(WorkItemCallback callback)
    at System.Web.Util.WorkItem.OnQueueUserWorkItemCompletion(Object state)

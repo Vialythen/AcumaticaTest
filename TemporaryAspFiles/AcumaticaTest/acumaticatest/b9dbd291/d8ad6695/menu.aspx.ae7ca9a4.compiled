@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Api/Menu.aspx" hash="fffffff44bb1fa49" filehash="97eda6768f6c6671" flags="110000" assembly="App_Web_fnbqaxvl" type="ASP.api_menu_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Api/Menu.aspx" hash="fffffff44bb1fa49" filehash="97eda6768f6c6671" flags="110000" assembly="App_Web_ng4nhd1l" type="ASP.api_menu_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/Api/Menu.aspx" />
         <filedep name="/AcumaticaTest/Api/Menu.aspx.cs" />

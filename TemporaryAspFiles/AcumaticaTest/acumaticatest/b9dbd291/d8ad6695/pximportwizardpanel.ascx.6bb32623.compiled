@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/UserControls/PXImportWizardPanel.ascx" hash="fffffff44bb1fa49" filehash="1505" flags="100000" assembly="App_Web_pximportwizardpanel.ascx.6bb32623.c8gqblr2" type="ASP.usercontrols_pximportwizardpanel_ascx">
-    <filedeps>
-        <filedep name="/AcumaticaTest/UserControls/PXImportWizardPanel.ascx" />
-    </filedeps>
-</preserve>

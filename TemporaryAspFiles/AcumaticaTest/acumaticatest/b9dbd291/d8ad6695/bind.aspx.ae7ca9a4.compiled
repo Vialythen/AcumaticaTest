@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Api/Bind.aspx" hash="fffffff44bb1fa49" filehash="e858b25037c07b6f" flags="110000" assembly="App_Web_fnbqaxvl" type="ASP.api_bind_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Api/Bind.aspx" hash="fffffff44bb1fa49" filehash="e858b25037c07b6f" flags="110000" assembly="App_Web_ng4nhd1l" type="ASP.api_bind_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/Api/Bind.aspx" />
         <filedep name="/AcumaticaTest/Api/Bind.aspx.cs" />

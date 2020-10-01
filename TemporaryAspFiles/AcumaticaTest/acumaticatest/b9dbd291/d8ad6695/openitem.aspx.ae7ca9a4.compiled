@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Api/OpenItem.aspx" hash="fffffff44bb1fa49" filehash="3233490ad78763e7" flags="110000" assembly="App_Web_fnbqaxvl" type="ASP.api_openitem_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Api/OpenItem.aspx" hash="fffffff44bb1fa49" filehash="3233490ad78763e7" flags="110000" assembly="App_Web_ng4nhd1l" type="ASP.api_openitem_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/Api/OpenItem.aspx" />
         <filedep name="/AcumaticaTest/Api/OpenItem.aspx.cs" />

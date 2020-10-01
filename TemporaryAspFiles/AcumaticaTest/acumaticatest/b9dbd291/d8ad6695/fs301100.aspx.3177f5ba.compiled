@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Pages/FS/GoogleMaps/StaffMap/FS301100.aspx" hash="fffffff44bb1fa49" filehash="106d416c2a4b9b38" flags="110000" assembly="App_Web_xnh5ters" type="ASP.pages_fs_googlemaps_staffmap_fs301100_aspx">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
-        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
-        <filedep name="/AcumaticaTest/Pages/FS/GoogleMaps/StaffMap/FS301100.aspx" />
-        <filedep name="/AcumaticaTest/Pages/FS/GoogleMaps/StaffMap/FS301100.aspx.cs" />
-    </filedeps>
-</preserve>
