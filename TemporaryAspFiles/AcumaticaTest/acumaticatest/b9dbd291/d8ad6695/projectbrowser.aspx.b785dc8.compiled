@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/ProjectBrowser.aspx" hash="fffffff44bb1fa49" filehash="e6f256b79756fd6e" flags="110000" assembly="App_Web_owby5zmh" type="ASP.frames_projectbrowser_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/ProjectBrowser.aspx" hash="fffffff44bb1fa49" filehash="e6f256b79756fd6e" flags="110000" assembly="App_Web_t4bakxhy" type="ASP.frames_projectbrowser_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/Frames/ProjectBrowser.aspx" />
         <filedep name="/AcumaticaTest/Frames/ProjectBrowser.aspx.cs" />

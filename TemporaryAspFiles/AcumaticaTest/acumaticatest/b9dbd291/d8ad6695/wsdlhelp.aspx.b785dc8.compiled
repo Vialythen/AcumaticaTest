@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/WsdlHelp.aspx" hash="fffffff44bb1fa49" filehash="c46c33f1433b12e0" flags="110000" assembly="App_Web_5ci5lhil" type="ASP.frames_wsdlhelp_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/WsdlHelp.aspx" hash="fffffff44bb1fa49" filehash="c46c33f1433b12e0" flags="110000" assembly="App_Web_unkt2zop" type="ASP.frames_wsdlhelp_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/Frames/WsdlHelp.aspx" />
         <filedep name="/AcumaticaTest/Frames/WsdlHelp.aspx.cs" />

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Wiki/ArticleEdit.aspx" hash="fffffff44bb1fa49" filehash="bfbf94655f337d7e" flags="110000" assembly="App_Web_xzrjgyhc" type="ASP.wiki_articleedit_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Wiki/ArticleEdit.aspx" hash="fffffff44bb1fa49" filehash="bfbf94655f337d7e" flags="110000" assembly="App_Web_fluysmw1" type="ASP.wiki_articleedit_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
         <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />

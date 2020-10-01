@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Pivot/Pivot.aspx" hash="fffffff44bb1fa49" filehash="f385bdfad0d66122" flags="110000" assembly="App_Web_cziw4cqv" type="ASP.pivot_pivot_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Pivot/Pivot.aspx" hash="fffffff44bb1fa49" filehash="f385bdfad0d66122" flags="110000" assembly="App_Web_1zq1t1xj" type="ASP.pivot_pivot_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
         <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />

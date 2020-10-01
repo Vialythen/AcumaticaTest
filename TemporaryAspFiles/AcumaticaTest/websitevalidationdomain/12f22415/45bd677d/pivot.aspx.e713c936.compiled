@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebSiteValidationDomain/Pivot/Pivot.aspx" hash="fffffff44bb1fa49" filehash="79119e5361a685fa" flags="110000" assembly="App_Web_yikosplf" type="ASP.pivot_pivot_aspx">
+<preserve resultType="3" virtualPath="/WebSiteValidationDomain/Pivot/Pivot.aspx" hash="fffffff44bb1fa49" filehash="79119e5361a685fa" flags="110000" assembly="App_Web_azu5p1xx" type="ASP.pivot_pivot_aspx">
     <filedeps>
         <filedep name="/WebSiteValidationDomain/Controls/PageTitle.ascx" />
         <filedep name="/WebSiteValidationDomain/Controls/PageTitle.ascx.cs" />

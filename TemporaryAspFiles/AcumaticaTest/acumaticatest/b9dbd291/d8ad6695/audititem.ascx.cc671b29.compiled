@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Controls/AuditItem.ascx" hash="fffffff44bb1fa49" filehash="1e69bc098d99a392" flags="110000" assembly="App_Web_jvh1xoc5" type="ASP.controls_audititem_ascx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Controls/AuditItem.ascx" hash="fffffff44bb1fa49" filehash="1e69bc098d99a392" flags="110000" assembly="App_Web_43awofar" type="ASP.controls_audititem_ascx">
     <filedeps>
         <filedep name="/AcumaticaTest/Controls/AuditItem.ascx" />
         <filedep name="/AcumaticaTest/Controls/AuditItem.ascx.cs" />

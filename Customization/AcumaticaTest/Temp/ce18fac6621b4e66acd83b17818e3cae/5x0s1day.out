@@ -1,0 +1,6 @@
+﻿C:\Users\jknauf\Downloads> "C:\Users\jknauf\Documents\GitHub\AcumaticaTest\AcumaticaTest\bin\roslyn\csc.exe" /shared /keepalive:"10" /noconfig  /fullpaths @"C:\Users\jknauf\Documents\GitHub\AcumaticaTest\Customization\AcumaticaTest\Temp\ce18fac6621b4e66acd83b17818e3cae\5x0s1day.cmdline"
+
+
+Microsoft (R) Visual C# Compiler version 2.9.0.63208 (958f2354)
+Copyright (C) Microsoft Corporation. All rights reserved.
+

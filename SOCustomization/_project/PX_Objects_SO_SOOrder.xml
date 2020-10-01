@@ -1,7 +1,0 @@
-﻿<DAC type="PX.Objects.SO.SOOrder">
-    <Field FieldName="UsrImportant" TypeName="bool" MapDbTable="SOOrder" TextAttributes="#CDATA" StorageName="AddColumn">
-        <CDATA name="TextAttributes"><![CDATA[[PXDBBool]
-[PXUIField(DisplayName="Important")]
-]]></CDATA>
-    </Field>
-</DAC>

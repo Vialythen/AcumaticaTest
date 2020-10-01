@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Pages/SM/SM200530.aspx" hash="fffffff44bb1fa49" filehash="f7361fccea0aef5" flags="110000" assembly="App_Web_wy2h05mn" type="ASP.pages_sm_sm200530_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Pages/SM/SM200530.aspx" hash="fffffff44bb1fa49" filehash="f7361fccea0aef5" flags="110000" assembly="App_Web_01srierq" type="ASP.pages_sm_sm200530_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
         <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
