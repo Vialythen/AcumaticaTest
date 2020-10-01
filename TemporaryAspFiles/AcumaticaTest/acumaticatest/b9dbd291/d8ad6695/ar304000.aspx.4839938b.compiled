@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Pages/AR/AR304000.aspx" hash="fffffff44bb1fa49" filehash="fec923736c99e744" flags="110000" assembly="App_Web_vktxgm52" type="ASP.pages_ar_ar304000_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
+        <filedep name="/AcumaticaTest/MasterPages/FormDetail.master" />
+        <filedep name="/AcumaticaTest/MasterPages/FormDetail.master.cs" />
+        <filedep name="/AcumaticaTest/Pages/AR/AR304000.aspx" />
+        <filedep name="/AcumaticaTest/Pages/AR/AR304000.aspx.cs" />
+        <filedep name="/AcumaticaTest/Pages/Includes/CRApprovalReasonPanel.inc" />
+    </filedeps>
+</preserve>

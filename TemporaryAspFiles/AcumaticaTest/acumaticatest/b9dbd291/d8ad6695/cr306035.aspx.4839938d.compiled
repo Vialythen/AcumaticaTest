@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Pages/CR/CR306035.aspx" hash="fffffff44bb1fa49" filehash="ba527122fbd4c952" flags="110000" assembly="App_Web_u5megfwj" type="ASP.pages_cr_cr306035_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
+        <filedep name="/AcumaticaTest/MasterPages/FormDetail.master" />
+        <filedep name="/AcumaticaTest/MasterPages/FormDetail.master.cs" />
+        <filedep name="/AcumaticaTest/Pages/CR/CR306035.aspx" />
+        <filedep name="/AcumaticaTest/Pages/CR/CR306035.aspx.cs" />
+    </filedeps>
+</preserve>

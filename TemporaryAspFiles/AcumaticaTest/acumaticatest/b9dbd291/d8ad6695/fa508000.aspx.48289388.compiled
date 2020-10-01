@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Pages/FA/FA508000.aspx" hash="fffffff44bb1fa49" filehash="72d2daf095d8b228" flags="110000" assembly="App_Web_gfht2gw5" type="ASP.pages_fa_fa508000_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
+        <filedep name="/AcumaticaTest/MasterPages/ListView.master" />
+        <filedep name="/AcumaticaTest/MasterPages/ListView.master.cs" />
+        <filedep name="/AcumaticaTest/Pages/FA/FA508000.aspx" />
+        <filedep name="/AcumaticaTest/Pages/FA/FA508000.aspx.cs" />
+    </filedeps>
+</preserve>

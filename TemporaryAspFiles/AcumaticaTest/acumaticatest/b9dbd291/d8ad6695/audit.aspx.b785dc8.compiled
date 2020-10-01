@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/Audit.aspx" hash="fffffff44bb1fa49" filehash="59c628e65e63a2e4" flags="110000" assembly="App_Web_owby5zmh" type="ASP.frames_audit_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Controls/TraceItem.ascx" />
+        <filedep name="/AcumaticaTest/Controls/TraceItem.ascx.cs" />
+        <filedep name="/AcumaticaTest/Frames/Audit.aspx" />
+        <filedep name="/AcumaticaTest/Frames/Audit.aspx.cs" />
+    </filedeps>
+</preserve>

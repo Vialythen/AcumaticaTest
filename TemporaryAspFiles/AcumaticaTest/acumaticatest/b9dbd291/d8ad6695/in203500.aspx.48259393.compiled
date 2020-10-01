@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Pages/IN/IN203500.aspx" hash="fffffff44bb1fa49" filehash="68074484b193d420" flags="110000" assembly="App_Web_bi4oqnl1" type="ASP.pages_in_in203500_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
+        <filedep name="/AcumaticaTest/MasterPages/FormDetail.master" />
+        <filedep name="/AcumaticaTest/MasterPages/FormDetail.master.cs" />
+        <filedep name="/AcumaticaTest/Pages/IN/IN203500.aspx" />
+        <filedep name="/AcumaticaTest/Pages/IN/IN203500.aspx.cs" />
+        <filedep name="/AcumaticaTest/Pages/Includes/InventoryMatrixCreateItems.inc" />
+    </filedeps>
+</preserve>

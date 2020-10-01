@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/MasterPages/TabView.master" hash="fffffff44bb1fa49" filehash="41b9779cadade5e2" flags="110000" assembly="App_Web_kqa5bvvq" type="ASP.masterpages_tabview_master">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
+        <filedep name="/AcumaticaTest/MasterPages/TabView.master" />
+        <filedep name="/AcumaticaTest/MasterPages/TabView.master.cs" />
+    </filedeps>
+</preserve>

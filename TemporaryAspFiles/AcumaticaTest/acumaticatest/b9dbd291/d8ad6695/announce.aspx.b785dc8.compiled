@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/Announce.aspx" hash="fffffff44bb1fa49" filehash="64940ff98f32f9b6" flags="110000" assembly="App_Web_5ci5lhil" type="ASP.frames_announce_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Frames/Announce.aspx" />
+        <filedep name="/AcumaticaTest/Frames/Announce.aspx.cs" />
+    </filedeps>
+</preserve>

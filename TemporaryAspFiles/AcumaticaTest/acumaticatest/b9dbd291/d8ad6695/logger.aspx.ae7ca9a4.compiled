@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Api/Logger.aspx" hash="fffffff44bb1fa49" filehash="77e3f3b11d523282" flags="110000" assembly="App_Web_tp0e4u4k" type="ASP.api_logger_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Api/Logger.aspx" />
+        <filedep name="/AcumaticaTest/Api/Logger.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/AcumaticaTest/Api/TypelessGate.asmx" hash="ffffffffa46abde8" filehash="ffffea08c168dd87" flags="130000" assembly="PX.Data" type="PX.Api.TypelessGate">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Api/TypelessGate.asmx" />
+    </filedeps>
+</preserve>
