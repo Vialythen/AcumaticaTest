@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Wiki/AnnouncementEdit.aspx" hash="fffffff44bb1fa49" filehash="ed396e385e978740" flags="110000" assembly="App_Web_hhcfm31u" type="ASP.wiki_announcementedit_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
+        <filedep name="/AcumaticaTest/MasterPages/TabView.master" />
+        <filedep name="/AcumaticaTest/MasterPages/TabView.master.cs" />
+        <filedep name="/AcumaticaTest/Wiki/AnnouncementEdit.aspx" />
+        <filedep name="/AcumaticaTest/Wiki/AnnouncementEdit.aspx.cs" />
+    </filedeps>
+</preserve>

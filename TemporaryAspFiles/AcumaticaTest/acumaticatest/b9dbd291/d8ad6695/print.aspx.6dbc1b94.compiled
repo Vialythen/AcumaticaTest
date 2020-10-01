@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Wiki/Print.aspx" hash="fffffff44bb1fa49" filehash="bcea1171ecc168ca" flags="110000" assembly="App_Web_hhcfm31u" type="ASP.wiki_print_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Wiki/Print.aspx" />
+        <filedep name="/AcumaticaTest/Wiki/Print.aspx.cs" />
+    </filedeps>
+</preserve>

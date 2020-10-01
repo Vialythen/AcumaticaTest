@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Search/Search.aspx" hash="fffffff44bb1fa49" filehash="b7d3b8824ebd5762" flags="110000" assembly="App_Web_klzzxmy1" type="ASP.search_search_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Controls/PageFooter.ascx" />
+        <filedep name="/AcumaticaTest/Controls/PageFooter.ascx.cs" />
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
+        <filedep name="/AcumaticaTest/Search/Search.aspx" />
+        <filedep name="/AcumaticaTest/Search/Search.aspx.cs" />
+    </filedeps>
+</preserve>

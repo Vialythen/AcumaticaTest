@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Wiki/NotificationEdit.aspx" hash="fffffff44bb1fa49" filehash="b0535a9bd106134c" flags="110000" assembly="App_Web_xzrjgyhc" type="ASP.wiki_notificationedit_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
+        <filedep name="/AcumaticaTest/MasterPages/TabView.master" />
+        <filedep name="/AcumaticaTest/MasterPages/TabView.master.cs" />
+        <filedep name="/AcumaticaTest/Wiki/NotificationEdit.aspx" />
+        <filedep name="/AcumaticaTest/Wiki/NotificationEdit.aspx.cs" />
+    </filedeps>
+</preserve>

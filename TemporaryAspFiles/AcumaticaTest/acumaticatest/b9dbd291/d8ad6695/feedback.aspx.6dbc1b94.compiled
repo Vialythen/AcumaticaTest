@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Wiki/Feedback.aspx" hash="fffffff44bb1fa49" filehash="276600de93296a48" flags="110000" assembly="App_Web_xzrjgyhc" type="ASP.wiki_feedback_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx" />
+        <filedep name="/AcumaticaTest/Controls/PageTitle.ascx.cs" />
+        <filedep name="/AcumaticaTest/MasterPages/FormView.master" />
+        <filedep name="/AcumaticaTest/MasterPages/FormView.master.cs" />
+        <filedep name="/AcumaticaTest/Wiki/Feedback.aspx" />
+        <filedep name="/AcumaticaTest/Wiki/Feedback.aspx.cs" />
+    </filedeps>
+</preserve>

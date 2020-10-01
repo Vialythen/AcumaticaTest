@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AcumaticaTest/Wiki/ShowPdf.aspx" hash="fffffff44bb1fa49" filehash="3d439a90b6957e27" flags="110000" assembly="App_Web_1fgzajkp" type="ASP.wiki_showpdf_aspx">
+    <filedeps>
+        <filedep name="/AcumaticaTest/Wiki/ShowPdf.aspx" />
+        <filedep name="/AcumaticaTest/Wiki/ShowPdf.aspx.cs" />
+    </filedeps>
+</preserve>
