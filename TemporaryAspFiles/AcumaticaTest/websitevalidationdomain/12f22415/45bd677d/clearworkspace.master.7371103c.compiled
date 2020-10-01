@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebSiteValidationDomain/MasterPages/ClearWorkspace.master" hash="fffffff44bb1fa49" filehash="68fb132172af6f2d" flags="110000" assembly="App_Web_n0y5b3yn" type="ASP.masterpages_clearworkspace_master">
+    <filedeps>
+        <filedep name="/WebSiteValidationDomain/MasterPages/ClearWorkspace.master" />
+        <filedep name="/WebSiteValidationDomain/MasterPages/ClearWorkspace.master.cs" />
+    </filedeps>
+</preserve>

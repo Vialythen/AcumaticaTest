@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/App_Data/Templates/FormTab/Pages/ScreenID.aspx" hash="fffffff44bb1fa49" filehash="645434fa59f7aafb" flags="110000" assembly="App_Web_ipbtlt3o" type="ASP.app_data_templates_formtab_pages_screenid_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/App_Data/Templates/FormTab/Pages/ScreenID.aspx" hash="fffffff44bb1fa49" filehash="645434fa59f7aafb" flags="110000" assembly="App_Web_4cnxdtyt" type="ASP.app_data_templates_formtab_pages_screenid_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/App_Data/Templates/FormTab/Pages/ScreenID.aspx" />
         <filedep name="/AcumaticaTest/App_Data/Templates/FormTab/Pages/ScreenID.aspx.cs" />

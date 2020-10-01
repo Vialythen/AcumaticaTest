@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebSiteValidationDomain/Controls/PageFooter.ascx" hash="fffffff44bb1fa49" filehash="e49fb87875a6e33e" flags="110000" assembly="App_Web_04mwj55m" type="ASP.controls_pagefooter_ascx">
+    <filedeps>
+        <filedep name="/WebSiteValidationDomain/Controls/PageFooter.ascx" />
+        <filedep name="/WebSiteValidationDomain/Controls/PageFooter.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/MobileAuth.aspx" hash="fffffff44bb1fa49" filehash="91ec1cd6e72bb206" flags="110000" assembly="App_Web_5ci5lhil" type="ASP.frames_mobileauth_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Frames/MobileAuth.aspx" hash="fffffff44bb1fa49" filehash="91ec1cd6e72bb206" flags="110000" assembly="App_Web_o4jxqbil" type="ASP.frames_mobileauth_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/Frames/MobileAuth.aspx" />
         <filedep name="/AcumaticaTest/Frames/MobileAuth.aspx.cs" />

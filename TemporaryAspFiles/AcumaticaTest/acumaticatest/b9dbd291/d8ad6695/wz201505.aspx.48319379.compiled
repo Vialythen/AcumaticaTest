@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Pages/WZ/WZ201505.aspx" hash="fffffff44bb1fa49" filehash="fd7c80a15675641b" flags="110000" assembly="App_Web_soci22u3" type="ASP.pages_wz_wz201505_aspx">
-    <filedeps>
-        <filedep name="/AcumaticaTest/Pages/WZ/WZ201505.aspx" />
-        <filedep name="/AcumaticaTest/Pages/WZ/WZ201505.aspx.cs" />
-    </filedeps>
-</preserve>

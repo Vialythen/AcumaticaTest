@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Controls/ProcessingDialogs.ascx" hash="fffffff44bb1fa49" filehash="76ad5c3a85cccb77" flags="110000" assembly="App_Web_jvh1xoc5" type="ASP.controls_processingdialogs_ascx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Controls/ProcessingDialogs.ascx" hash="fffffff44bb1fa49" filehash="76ad5c3a85cccb77" flags="110000" assembly="App_Web_xrijdo5r" type="ASP.controls_processingdialogs_ascx">
     <filedeps>
         <filedep name="/AcumaticaTest/Controls/ProcessingDialogs.ascx" />
         <filedep name="/AcumaticaTest/Controls/ProcessingDialogs.ascx.cs" />

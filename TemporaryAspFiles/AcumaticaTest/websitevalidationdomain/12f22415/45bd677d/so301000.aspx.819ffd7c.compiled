@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebSiteValidationDomain/CstPublished/pages_so/so301000.aspx" hash="fffffff44bb1fa49" filehash="65ccd29b7b5f4dee" flags="110000" assembly="App_Web_1djgcyhv" type="ASP.cstpublished_pages_so_so301000_aspx">
+    <filedeps>
+        <filedep name="/WebSiteValidationDomain/Controls/PageTitle.ascx" />
+        <filedep name="/WebSiteValidationDomain/Controls/PageTitle.ascx.cs" />
+        <filedep name="/WebSiteValidationDomain/CstPublished/pages_so/so301000.aspx" />
+        <filedep name="/WebSiteValidationDomain/CstPublished/pages_so/SO301000.aspx.cs" />
+        <filedep name="/WebSiteValidationDomain/MasterPages/FormDetail.master" />
+        <filedep name="/WebSiteValidationDomain/MasterPages/FormDetail.master.cs" />
+    </filedeps>
+</preserve>

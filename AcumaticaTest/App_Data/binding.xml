@@ -1,0 +1,3 @@
+<bindings default="C:\Acumatica\Customization Project Files">
+  <binding name="SOCustomization" folder="C:\Acumatica\Customization Project Files" />
+</bindings>

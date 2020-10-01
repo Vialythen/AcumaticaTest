@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AcumaticaTest/Api/Cache.aspx" hash="fffffff44bb1fa49" filehash="379ebac29fc3edac" flags="110000" assembly="App_Web_tp0e4u4k" type="ASP.api_cache_aspx">
+<preserve resultType="3" virtualPath="/AcumaticaTest/Api/Cache.aspx" hash="fffffff44bb1fa49" filehash="379ebac29fc3edac" flags="110000" assembly="App_Web_ng4nhd1l" type="ASP.api_cache_aspx">
     <filedeps>
         <filedep name="/AcumaticaTest/Api/Cache.aspx" />
         <filedep name="/AcumaticaTest/Api/Cache.aspx.cs" />
