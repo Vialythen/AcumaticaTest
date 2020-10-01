@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebSiteValidationDomain/MasterPages/Login.master" hash="fffffff44bb1fa49" filehash="f0cfeff2854e9e5b" flags="110000" assembly="App_Web_sdiptvos" type="ASP.masterpages_login_master">
+    <filedeps>
+        <filedep name="/WebSiteValidationDomain/MasterPages/Login.master" />
+        <filedep name="/WebSiteValidationDomain/MasterPages/Login.master.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebSiteValidationDomain/Controls/TraceItem.ascx" hash="fffffff44bb1fa49" filehash="e70f2dcbc1f5e091" flags="110000" assembly="App_Web_lljiry1a" type="ASP.controls_traceitem_ascx">
+    <filedeps>
+        <filedep name="/WebSiteValidationDomain/Controls/TraceItem.ascx" />
+        <filedep name="/WebSiteValidationDomain/Controls/TraceItem.ascx.cs" />
+    </filedeps>
+</preserve>

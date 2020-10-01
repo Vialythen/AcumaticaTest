@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebSiteValidationDomain/MasterPages/Workspace.master" hash="fffffff44bb1fa49" filehash="b6062b074a6421b" flags="110000" assembly="App_Web_sdiptvos" type="ASP.masterpages_workspace_master">
+    <filedeps>
+        <filedep name="/WebSiteValidationDomain/Controls/PageTitle.ascx" />
+        <filedep name="/WebSiteValidationDomain/Controls/PageTitle.ascx.cs" />
+        <filedep name="/WebSiteValidationDomain/MasterPages/Workspace.master" />
+        <filedep name="/WebSiteValidationDomain/MasterPages/Workspace.master.cs" />
+    </filedeps>
+</preserve>

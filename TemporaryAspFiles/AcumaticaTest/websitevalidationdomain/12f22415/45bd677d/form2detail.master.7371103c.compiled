@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebSiteValidationDomain/MasterPages/Form2Detail.master" hash="fffffff44bb1fa49" filehash="32b2f51e32efb95a" flags="110000" assembly="App_Web_sdiptvos" type="ASP.masterpages_form2detail_master">
+    <filedeps>
+        <filedep name="/WebSiteValidationDomain/Controls/PageTitle.ascx" />
+        <filedep name="/WebSiteValidationDomain/Controls/PageTitle.ascx.cs" />
+        <filedep name="/WebSiteValidationDomain/MasterPages/Form2Detail.master" />
+        <filedep name="/WebSiteValidationDomain/MasterPages/Form2Detail.master.cs" />
+    </filedeps>
+</preserve>
