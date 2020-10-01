@@ -4,6 +4,9 @@
 # Acumatica Framework binaries
 lib/
 
+# Remove temp ASP Files
+TemporaryAspFiles
+
 # Sensitive info
 *.snk
 *.pfx
